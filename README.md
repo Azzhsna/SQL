@@ -1,2 +1,2 @@
 # SQL
-my first database project in third semester
+cases that have been worked on using sql third semester
